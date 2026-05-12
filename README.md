@@ -11,5 +11,5 @@
 - 🌿 [Organic Product](https://github.com/Vrunda1901/organic-product) 
 
 ## 📫 Contact Me
-- LinkedIn: (paste your LinkedIn link)
+- LinkedIn: www.linkedin.com/in/vrunda-s-a-918b4529a
 - Email: vrunda2003sa@gmail.com
