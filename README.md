@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Vrunda! 👋
 
-<!--
-**Vrunda1901/Vrunda1901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Software Engineer | Open to opportunities
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Languages: Python, SQL, PowerBI, HTML, CSS, Machine Learning, Django, FastAPI, 
+- Tools: Git, GitHub, VS Code
+- Areas: Web Development, Backend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- 🌿 [Organic Product](https://github.com/Vrunda1901/organic-product) 
+
+## 📫 Contact Me
+- LinkedIn: (paste your LinkedIn link)
+- Email: vrunda2003sa@gmail.com
